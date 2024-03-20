@@ -1,5 +1,5 @@
 
-# Skin_cancer_detection
+# Face Recognition Systewm
 
 # Group Members
 
